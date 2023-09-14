@@ -9,7 +9,6 @@ package task;
  *
  * @author AMANI
  */
-
 public enum Priority {
    high,
     low,
